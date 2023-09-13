@@ -8,6 +8,8 @@
 
 - SOAP Response Message  structure
   ![Response](https://github.com/dhanushka365/SOAP-WSDL/assets/66137046/67042bde-0c52-483c-aaaa-1d22ea546bbb)
+  ![emppost](https://github.com/dhanushka365/SOAP-WSDL/assets/66137046/507affd3-4462-45c2-858d-6ee6e8f1fa8f)
+
 
 - Obtained WSDL For Department Service
   ![WSDL](https://github.com/dhanushka365/SOAP-WSDL/assets/66137046/e2845eae-7d6e-40e8-8fe8-417f0cc06e69)
